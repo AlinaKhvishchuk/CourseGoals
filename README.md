@@ -47,11 +47,3 @@ npm start
 ## Contact
 
 If you have any questions, suggestions, or need assistance, feel free to contact me at alina.khvishchuk@gmail.com
-
-```
-
-```
-
-```
-
-```
